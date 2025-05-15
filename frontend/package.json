@@ -26,7 +26,7 @@
     "@aptos-labs/wallet-adapter-ant-design": "3.0.14",
     "@aptos-labs/wallet-adapter-react": "3.5.8",
     "antd": "5.12.8",
-    "aptos": "1.20.0",
+    "aptos": "7.20.0",
     "axios": "1.6.0",
     "petra-plugin-wallet-adapter": "0.4.5",
     "react": "18.2.0",
