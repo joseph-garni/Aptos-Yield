@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Build files
+build/
+dist/
+*.pyc
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Aptos
+.aptos/
+Move.lock
+target/
+
+# Frontend
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backend
+*.log
+instance/
