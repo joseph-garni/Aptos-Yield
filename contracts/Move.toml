@@ -1,0 +1,9 @@
+[package]
+name = "YieldAggregator"
+version = "0.0.1"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "mainnet" }
+
+[addresses]
+YieldAggregator = "0xbf26da9f674d743b7fc82a5fefb4577beb6907cbaaf3b2f970593b1a82cbe768"
